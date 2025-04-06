@@ -1,0 +1,31 @@
+<!-- _includes/head.html -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{{ page.title }} | {{ site.title }}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+
+<link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+<link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<!-- MathJax Configuration -->
+<script>
+window.MathJax = {
+  tex: {
+    tags: 'ams',  // Enables numbering with \begin{equation}
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']],
+    packages: { '[+]': ['ams'] }  // Adds AMS package for numbering
+  },
+  options: {
+    skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+  }
+};
+</script>
+
+<!-- MathJax Script -->
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
