@@ -23,9 +23,7 @@ email: freephysicks@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Physicist of the middle of the world. Uploading answers for the sake of it when I am bored. These are my own solutions to problems from different books. The problems are used here solely for educational purposes.  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: twitter_username
-github_username:  github_name
+url: "https://freephysicks.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima

@@ -14,4 +14,4 @@ title: FREE PHY-SICKS
 - ## [Classical Mechanics](/categories/mechanics/)
 
 
-Feel free to contribute. Mail me :)
+If you find something useful maybe consider [buying me a coffee](https://buymeacoffee.com/freephysicks) :)
