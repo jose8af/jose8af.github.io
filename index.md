@@ -18,3 +18,5 @@ title: FREE PHY-SICKS
 
 
 If you find something useful maybe consider [buying me a coffee](https://buymeacoffee.com/freephysicks) :)
+
+<div id="sfc52g1yhywj6p29gdyahfubbc7utn4rcn4"></div><script type="text/javascript" src="https://counter4.optistats.ovh/private/counter.js?c=52g1yhywj6p29gdyahfubbc7utn4rcn4&down=async" async></script><noscript><a href="https://www.freecounterstat.com" title="free hit counter code"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=52g1yhywj6p29gdyahfubbc7utn4rcn4" border="0" title="free hit counter code" alt="free hit counter code"></a></noscript>
