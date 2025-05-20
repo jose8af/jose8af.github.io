@@ -12,6 +12,9 @@ title: FREE PHY-SICKS
 
 - ## [Electromagnetism](/categories/electromagnetism/)
 - ## [Classical Mechanics](/categories/mechanics/)
+- ## [Quantum Field Theory](/categories/qft/)
+- ## [Quantum Mechanics](/categories/qm/)
+
 
 
 If you find something useful maybe consider [buying me a coffee](https://buymeacoffee.com/freephysicks) :)
